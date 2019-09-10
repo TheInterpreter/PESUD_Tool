@@ -8,5 +8,5 @@
 - Scan open ports of a given IP
   - Sniffes packages being transferred. 
   - If unencrypted, filter JSON, SQL, XML open formats. 
-- Creates a false-positive stream for 
+- Creates a false-positive stream for disfunctional IPS using [inundator](http://inundator.sourceforge.net/)
 
