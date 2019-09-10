@@ -7,7 +7,7 @@
 
 ***BACKLOG*:**
 - PESUD is divided in **works**.
-  - **EPIC 1:** A primary **work** of PESUD is to penetrate in the network. 
+  - **EPIC 1:** A primary **work** of PESUD is to penetrate in the network. Once it has penetrated it must mantain
   - **EPIC 2:** A Data **work** performs a particular task associated with prospecting, sniffing, decrypting and copying high-volume of packages being transferred through a network
 - Scan open ports of a given IP
   - Sniffes packages being transferred. 
